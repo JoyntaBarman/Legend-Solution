@@ -2235,6 +2235,10 @@ details.collapse summary::-webkit-details-marker {
   background-image: url('../images/Rectangle 5.png');
 }
 
+.bg-gradiant {
+  background-image: linear-gradient(#F3F3F3, white);
+}
+
 .bg-cover {
   background-size: cover;
 }
